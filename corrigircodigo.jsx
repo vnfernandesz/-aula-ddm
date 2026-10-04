@@ -45,11 +45,11 @@ uri: 'https://media.istockphoto.com/id/1400188922/vector/blank-book-icon.jpg?s=1
 
  <View style={styles.cartao}>
  <Text style={styles.materia}>
-   Programacao
+   Geografia
    </Text>
 
   <Text style={styles.descricao}>
-   Terminar atividade de React Native.
+   Fazer va do Bruno.
   </Text>
  </View>
 
@@ -99,14 +99,14 @@ marginBottom: 20
   },
 
   materia: {
- fontSize: 17,
+ fontSize: 20,
 fontWeight: 'bold',
-color: '#2563eb',
+color: 'cyan',
  marginBottom: 6
   },
 
   descricao: {
   fontSize: 14,
- color: '#555'
+ color: 'black'
 }
 });
